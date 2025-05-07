@@ -85,14 +85,39 @@ header p {
     margin-top: 40px;
 }
 
+.review {
+    
+}
+
+
+section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
 .riview h2 {
     font-size: 2rem;
     margin-bottom: 20px;
     color: #2c3e50;
+    
     
 }
 
 .cta {
     background-color: rgb(182, 182, 182);
     text-align: center;
+    gap: 30px;
 }
+
+footer {
+    background:var(--biru-utama);
+    color: #bbb;
+    text-align: center;
+    padding: 30px 20px;
+    margin-top: 40px ;
+  }
